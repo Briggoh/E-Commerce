@@ -44,7 +44,7 @@ Install the required dependencies by inputting the following command in the
 ```terminal
 npm i
 ``` 
-Open up MySQL shell and input the following command: 
+Open up MySQL and input the following command: 
 
 - "DROP DATABASE IF EXISTS ecommerce_db;"
 - "CREATE DATABASE ecommerce_db;"
