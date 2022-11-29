@@ -13,7 +13,8 @@ This project is a backend application that functions as customizable database fo
 
 Attached below is an image depicting the application running via Insomnia: 
 
-![Screen Shot 2022-11-28 at 7 44 56 PM](https://user-images.githubusercontent.com/109489824/204433678-96a40dc6-0a71-4a01-b613-7f98499ab983.png)
+![Screen Shot 2022-11-28 at 7 46 06 PM](https://user-images.githubusercontent.com/109489824/204433777-fa70aa55-268c-4dfd-964e-85a1ff892d38.png)
+
 
 
 
