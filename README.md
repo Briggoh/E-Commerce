@@ -20,7 +20,8 @@ Attached below is an image depicting the application running via Insomnia:
 
 ### Demonstration Video
 
-Attached here is a link to a video demonstration of the application. 
+Attached here is a link to a video demonstration of the application: 
+https://www.loom.com/share/daf075aa9a2745bd9f4c1cae9785afd7
 
 
 ## Technologies
