@@ -21,7 +21,7 @@ Attached here is a link to a video demonstration of the application.
 
 
 ## Technologies
-Project is created with 
+This project was created with: 
 * [Javascript](https://www.javascript.com/)
 * [Node.js](https://nodejs.org/en/)
 * [Sequelize](https://www.npmjs.com/package/sequelize)
