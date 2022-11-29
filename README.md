@@ -11,9 +11,10 @@
 
 This project is a backend application that functions as customizable database for an E-Commerce website using Sequelize in conjunction with a MySQL database. Using Insomnia, the user is able to interact with the backend functions of this app and view categories, tags, products, and adjust them as needed. 
 
-Attached below is an image depicting the application running via Insomnia: 
+Attached below is a gif depicting the application running via Insomnia: 
 
-![Screen Shot 2022-11-28 at 7 46 06 PM](https://user-images.githubusercontent.com/109489824/204433777-fa70aa55-268c-4dfd-964e-85a1ff892d38.png)
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/109489824/204451264-c196bf24-9512-436e-b72b-ba42bd5d3692.gif)
 
 
 
